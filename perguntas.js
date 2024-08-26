@@ -1,4 +1,4 @@
- export const perguntas = [
+export const perguntas = [
     {
         enunciado:"Como os hábitos alimentares variam em diferentes culturas ao redor do mundo?",
         alternativas: [
